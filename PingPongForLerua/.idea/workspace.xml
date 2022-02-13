@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70385956-6760-4a2c-81bb-a6fbea925bf7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24xwmeLJapZfmlBLkbE8zkq3ZQM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="jdk.selected.JAVA_MODULE" value="16.0.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.GameImpl">
+    <configuration name="GameImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameImpl" />
+      <module name="PingPongForLerua" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="PingPongForLerua" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameImpl" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70385956-6760-4a2c-81bb-a6fbea925bf7" name="Default Changelist" comment="" />
+      <created>1644585705734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644585705734</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1210" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1644775488241">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1210" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1644775488241" />
+    <state x="756" y="409" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1644764058829">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="756" y="409" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1644764058829" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1644763590823">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1644763590823" />
+    <state width="1877" height="257" key="GridCell.Tab.0.bottom" timestamp="1644781583354">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1644781583354" />
+    <state width="1877" height="257" key="GridCell.Tab.0.center" timestamp="1644781583354">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1644781583354" />
+    <state width="1877" height="257" key="GridCell.Tab.0.left" timestamp="1644781583354">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1644781583354" />
+    <state width="1877" height="257" key="GridCell.Tab.0.right" timestamp="1644781583354">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="257" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1644781583354" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1644781296328">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1644781296328" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1644781296328">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1644781296328" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1644781296328">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1644781296328" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1644781296328">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1644781296328" />
+    <state x="413" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1644781906555">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="413" y="289" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1644781906555" />
+    <state x="342" y="145" key="new project wizard" timestamp="1644763918057">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="145" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1644763918057" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1644777132683">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1644777132683" />
+  </component>
+</project>
